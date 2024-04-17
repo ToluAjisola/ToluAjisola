@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **ajisola.toluwalope@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Kd-5j-SLXq2swDo797ZsuY0vFtZN_FWa/view?usp=sharing](https://drive.google.com/file/d/1Kd-5j-SLXq2swDo797ZsuY0vFtZN_FWa/view?usp=sharing)
-
+- ⚡ Fun fact: **I enjoy swimming**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/http://www.linkedin.com/in/toluwalope-ajisola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/toluwalope-ajisola" height="30" width="40" /></a>
