@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Node, Express**
 
-- 👨‍💻 All of my projects are available at [https://toluwalopeajisola.netlify.app/](https://toluwalopeajisola.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://toluwalopeajisola.netlify.app/](https://toluwalopeajisola.com/)
 
 - 💬 Ask me about **React, Java, JavaScript**
 
